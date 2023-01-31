@@ -1,0 +1,1 @@
+This is a file created to show the areas of a house.
